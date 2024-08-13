@@ -6,8 +6,6 @@
 // In-person training  : https://www.linkedin.com/in/inancgumus/
 // Follow me on twitter: https://twitter.com/inancgumus
 
-package main
-
 // ---------------------------------------------------------
 // EXERCISE: Use your own package
 //
@@ -23,10 +21,14 @@ package main
 //  bye function should be in bye.go
 //
 // EXPECTED OUTPUT
+
 //  hi there
 //  goodbye
 // ---------------------------------------------------------
 
+package main
+
 func main() {
-	// call functions of the other files here
+	greet()
+	bye()
 }
