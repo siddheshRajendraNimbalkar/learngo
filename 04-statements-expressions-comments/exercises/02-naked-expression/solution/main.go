@@ -11,9 +11,8 @@ package main
 func main() {
 	// Uncomment the code line below to see the error.
 
-	/*
-		"Hello"
-	*/
+			"Hello"
+
 
 	// It will say: "evaluted but not used"
 	//

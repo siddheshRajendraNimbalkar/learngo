@@ -43,4 +43,5 @@ func main() {
 
 	// You could do it with Println as well
 	fmt.Printf("%q\n", s)
+	fmt.Println(r)
 }
