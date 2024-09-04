@@ -18,4 +18,5 @@ package main
 // ---------------------------------------------------------
 
 func main() {
+	var package-scope string
 }
